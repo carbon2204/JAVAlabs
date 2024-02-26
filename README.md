@@ -1,1 +1,1 @@
-# JAVAlabs
+# TextAnalyzer
